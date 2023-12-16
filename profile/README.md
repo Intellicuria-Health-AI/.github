@@ -1,4 +1,5 @@
-## Hi there 👋
+# Intelluria AI
+### Transforming Healthcare with AI
 
 <!--
 
